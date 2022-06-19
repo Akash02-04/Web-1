@@ -1,0 +1,245 @@
+*{
+    margin: 0em;
+    padding: 0em;
+}
+
+
+
+.header1{
+    display: flex;
+    background-color:rgb(14, 197, 197);
+    height: 2em;
+    color: white;
+    
+}
+.left{
+ padding-left: 4em;
+ padding-top: 0.10em;
+}
+.right1{
+    padding-left: 30em;
+    padding-top: 0.5em;
+}
+.right2{
+    padding-left: 1.5em;
+    padding-top: 0.5em;
+    display: inline-flex;
+    
+}
+
+.right3{
+    padding-left: 1.5em;
+    padding-top: 0.5em;
+}
+.icon a{
+    color: white;
+    text-decoration: none;
+    padding: 0.5em;
+   
+}
+.list li{
+list-style: none;
+display: inline;
+padding-left: 5em;
+padding-top: 2em;
+
+
+}
+
+.header2{
+    display: flex;
+    padding-inline-start: 0em;
+}
+.logo img{
+    display: inline;
+    height: 6em;
+}
+.button{
+    margin-left: 15em;
+    block-size: 2em;
+    margin-block-start: 2em;
+    color:white;
+    background-color: rgb(14, 197, 197);
+   border-color: #ffffff00;
+}
+.list{
+    padding-top: 2em;
+}
+.header3{
+    background: rgb(0,0,0,0.7) url(/image/bg.jpg);
+    background-size: cover;
+    background-blend-mode: darken;
+ color: white;   
+}
+.header3 h1{
+    padding-left: 8em;
+    padding-top: 5em;
+}
+.header3 p{
+    padding-left: 12em;
+    padding-top: 2em;
+    padding-right: 15em;
+}
+div.button2{
+    padding-left: 12em;
+    padding-top: 2em;
+    padding-bottom: 8em;
+}
+#btp1{
+    color: white;
+    background-color: transparent; 
+    border-color: white;
+    font-size: 0.75em;
+}
+#btp2{
+    color: white;
+    background-color: transparent;
+  margin-left: 1em;
+  border-color: white;
+  font-size: 0.75em;
+}
+.ourcause{
+padding-top: 4em;
+}
+h1#cause{
+    color: rgb(14, 197, 197);
+    padding-left: .5em;
+}
+.header4 span{
+    display: flex;
+    padding-left: 35em;
+}
+.header4 div{
+    padding-top: 2em;
+    padding-left: 1em;
+}
+.header4{
+    padding-bottom: 4em;
+}
+.imgp{
+    display: flex;
+    list-style: none;
+}
+#ourcharity{
+    padding-left: 30em;
+    padding-top: 4em;
+}
+.lorem{
+    padding-top: 2em;
+}
+.leftb{
+    display: inline-flex;
+}
+.midb{
+    display: inline-flex;
+    margin-left: 5.5em;
+}
+.rightb{
+    display: inline-flex;
+    margin-right: 10em;
+}
+
+.dolar1 b{
+    padding-left: 6em;
+}
+.dolar2 b{
+padding-left: 6em;
+}
+.dolar3 b{
+    padding-left: 6em;
+    }
+    
+.header5{
+    background: rgb(0,0,0,0.7) url(/image/bg2.jpg);
+    background-size: cover;
+    background-blend-mode: darken;
+ color: white; 
+ 
+}
+#how{
+    padding-left: 20em;
+    padding-top: 3em;
+    font-size: x-large;
+}
+#loremipsum{
+    padding-top: 1em;
+    padding-left: 22em;
+    font-size: smaller;
+}
+.content{
+display: inline-flex;
+padding-top: 4em;
+width: 70em;
+margin-left: 6em;
+padding-bottom: 4em;
+}
+.donater{
+    list-style: none;
+    padding-top: 1.5em;
+}
+.funrising{
+    list-style: none;
+    padding-top: 1.5em;
+    padding-left: 2em;
+}
+.volunteer{
+    list-style: none;
+    padding-top: 1.5em;
+    padding-left: 2em;
+}
+.content1{
+    padding-bottom: 2em;
+}
+.content2{
+    padding-bottom: 2em;
+}
+.content3{
+    background-color:transparent;
+    border-color: white;
+    border-radius: 1px;
+    color: white;
+}
+.footer{
+    display: inline-flex;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: white;
+    background-size: cover;
+  width: 100%;
+  padding-top: 4em;
+  
+}
+.aboutus{
+    padding-top: 1.5em;
+    padding-left: 6.5em;
+    
+   
+}
+.ourproject{
+    padding-top: 1.5em;
+    padding-left: 3.5em;
+   
+}
+.quicklink{
+    padding-top: 1.5em;
+    padding-left: 3.5em;
+}
+.newsletter{
+    padding-top: 1.5em;
+    padding-left: 3.5em;
+}
+.footer1{
+    font-size: smaller;
+    padding-top: 1.5em;
+}
+.footer1 li{
+    padding-top: 1em;
+}
+#footer1{
+    font-size: smaller;
+}
+#contactus{
+    padding-top: 1.5em;
+}
+#email{
+    padding-top: 1.5em;
+}
